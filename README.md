@@ -29,7 +29,7 @@ This project synthesizes trends in UK immigration across asylum seekers, new cit
   <a href="https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets#entry-clearance-visas-granted-outside-the-uk" target="_blank">Link</a>
   
 - **Tutorial**: 
-  <a href="http://127.0.0.1:5500/uploads/Videos/UK%20Immigration.mp4" target="_blank">Link</a>
+  <a href="https://drive.google.com/file/d/1FPKGZh5fyYaxnYkXN5XoLaS_kxqLddX_/view?usp=sharing">Link</a>
 
 ## Conclusion
 The UK’s immigration ecosystem is shaped by global crises, economic demands, and educational prestige. This project provides tools to leverage these trends effectively.
