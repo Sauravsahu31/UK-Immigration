@@ -18,8 +18,18 @@ This project synthesizes trends in UK immigration across asylum seekers, new cit
 
 ## Tools Used
 - Power BI, Python.
-- Repository: [GitHub Link](#)
-- Dashboards: [Asylum & Citizenship](#), [Students & Expats](#)
+
+## Resources
+
+- **Dashboard**: 
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjVkNzgyZDktNzg1Mi00ZTk4LTlkZDItNjgwMDNkMjU3ODU3IiwidCI6IjBjZmNjNzhhLTg2ODEtNGQ2Mi1hYTMxLTY4ZmYxNWFkZTY2MyJ9" target="_blank">Link D1</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTg1NjlhMzktM2RmYS00ZTAzLTg0OWUtNTUxMTZiNGU2NTdhIiwidCI6IjBjZmNjNzhhLTg2ODEtNGQ2Mi1hYTMxLTY4ZmYxNWFkZTY2MyJ9" target="_blank">Link D2</a>
+  
+- **Data Source**: 
+  <a href="https://www.gov.uk/government/statistical-data-sets/managed-migration-datasets#entry-clearance-visas-granted-outside-the-uk" target="_blank">Link</a>
+  
+- **Tutorial**: 
+  <a href="http://127.0.0.1:5500/uploads/Videos/UK%20Immigration.mp4" target="_blank">Link</a>
 
 ## Conclusion
 The UK’s immigration ecosystem is shaped by global crises, economic demands, and educational prestige. This project provides tools to leverage these trends effectively.
